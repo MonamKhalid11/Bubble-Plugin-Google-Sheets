@@ -1,0 +1,13 @@
+{
+    "categories": {
+        "0": "data (things)",
+        "1": "containers"
+    },
+    "demo_page": "https://bootcamptryme.bubbleapps.io/version-test?debug_mode=true",
+    "description": "Get google sheets by adding your google sheet id , plugin will show all the sheets in that google sheet , you can see details of all as well!",
+    "image": "//s3.amazonaws.com/appforest_uf/f1663336341937x611637085118933200/sheets.png",
+    "license": "open_source",
+    "link": "https://developers.google.com/sheets/api",
+    "name": "Google Sheets",
+    "plugin_instructions": "Create your app on google developer console here:\n\nhttps://console.cloud.google.com/\n\nEnable service and apis add google sheets :\nhttps://console.cloud.google.com/apis/api/sheets.googleapis.com\n\n\ncopy your app key/id and app secret by making oauth screen 2.0\n\n\ncopy them back to your plugin page and its ready to be used.\n\n\nDetails:\n\nsee how to configure it!\n\nhttps://www.loom.com/share/be53ddab5c1b42d09b98ec44fd3bb15b\n\n"
+}
